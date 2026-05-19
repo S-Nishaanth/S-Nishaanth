@@ -28,4 +28,4 @@ Check out where I dump my daily experiments and layout testing files:
 ### 🤝 Let's Connect!
 Whether you're exploring a new tech stack, working on an open-source project, or just want to share some code feedback, feel free to reach out:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishaanth-s-b94308378)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishaanth-s-b94308378)
