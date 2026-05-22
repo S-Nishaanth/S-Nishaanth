@@ -15,7 +15,7 @@ Here are the core languages, design systems, and developer tools I've worked wit
 | Category | Technologies |
 | :--- | :--- |
 | **Languages & Logic** | Python, C, C++ |
-| **Web Infrastructure** | HTML5 *(In Progress)* |
+| **Web Infrastructure** | HTML5, CSS *(In Progress)* |
 | **Design & UI/UX** | Figma |
 | **Developer Ecosystem** | Git, GitHub, VS Code |
 
